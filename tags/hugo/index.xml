@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>hugo on basil&#39;s blog</title>
+    <link>http://basildoesstuff.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on basil&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Feb 2023 21:30:07 +0530</lastBuildDate><atom:link href="http://basildoesstuff.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to setup your blog free of cost with hugo</title>
+      <link>http://basildoesstuff.github.io/posts/settingupblog/</link>
+      <pubDate>Thu, 02 Feb 2023 21:30:07 +0530</pubDate>
+      
+      <guid>http://basildoesstuff.github.io/posts/settingupblog/</guid>
+      <description>Just want to give a brief gist of how I made the website.I use github pages for hosting and used hugo to generate webpages from mark down file.You can also use other hosting sites like netlify but I just did want to pay for a domain name currently or have netlify in my url. So decided settled with the github.io url. To host a site you need to create a repository in github with the name &amp;quot;username&amp;quot;.</description>
+    </item>
+    
+  </channel>
+</rss>
